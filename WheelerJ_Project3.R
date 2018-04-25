@@ -9,7 +9,7 @@
 
 #With updated optimization to speed it up as done in class
 
-N <- 8
+N <- 12
 ITERS <- 5
 
 census <- read.csv('us_census.csv')
